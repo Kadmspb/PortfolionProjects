@@ -1,3 +1,8 @@
+/*
+COVID Data Set Project
+Project done on Microsoft SQL Server 2019
+*/
+
 SELECT *
 FROM PortfolioProject..COVIDdeaths
 WHERE continent is not null
